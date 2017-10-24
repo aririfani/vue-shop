@@ -1,4 +1,4 @@
-# scotch-store
+# vue-shop
 
 > mini e-commerce project
 
